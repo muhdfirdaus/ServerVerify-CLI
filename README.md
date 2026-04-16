@@ -21,7 +21,7 @@ Since ServerVerify-CLI relies exclusively on Python's Standard Library alongside
 
 ```bash
 # Clone the repository to the test unit or staging server
-git clone https://github.com/your-org/ServerVerify-CLI.git
+git clone https://github.com/muhdfirdaus/ServerVerify-CLI.git
 cd ServerVerify-CLI
 
 # Ensure the script is executable
