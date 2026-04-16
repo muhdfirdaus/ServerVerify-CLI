@@ -1,20 +1,4 @@
 #!/usr/bin/env python3
-"""
-hardware_audit.py
-
-A Python 3 script developed for a Senior Test Engineer demonstration.
-This script performs a system hardware audit on Linux systems (e.g., Ubuntu). 
-
-It gathers CPU, memory, and disk usage information, compares actual CPU 
-cores and RAM against predefined 'Expected' values, and generates both 
-a log file and a JSON output report for further data analysis.
-
-Security & Best Practices included:
-- PEP8 compliant
-- Avoiding `shell=True` in subprocess calls to prevent shell injection.
-- Robust exception handling across execution and data parsing segments.
-- Meaningful type hints, logging, and documentation comments.
-"""
 
 import json
 import logging

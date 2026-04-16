@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Project Overview
-**ServerVerify-CLI** is a lightweight, zero-dependency Python auditing tool designed for automating hardware validation in an x86 server manufacturing environment (e.g., within a Supermicro, Dell, or HPE integration context). 
+**ServerVerify-CLI** is a lightweight, zero-dependency Python auditing tool designed for automating hardware validation in an x86 server manufacturing environment. 
 
 During manufacturing run-in or final quality control (QC), it is critical that the physical hardware being tested strictly matches the expected Bill of Materials (BOM) without relying on manual and error-prone BIOS screen inspections. This tool performs an immediate cross-check of core components (CPU core count, physical Memory capacity, and Disk volume detection) directly from the OS level. It dumps actionable results for downstream data collection or MES integration.
 
