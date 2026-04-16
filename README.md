@@ -61,7 +61,7 @@ python3 hardware_audit.py
 }
 ```
 
-## Integrating into Production (Senior Perspective)
+## Integrating into Production
 
 To maximize the value of this validation script at scale, it should not just remain a standalone operator tool. Here is how it can fit into the larger manufacturing pipeline:
 
